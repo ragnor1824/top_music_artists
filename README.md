@@ -1,1 +1,1 @@
-# top_music_artists
+In this project, I conducted web scraping to gather data on the all-time top-selling music artists and harnessed ETL (Extract, Transform, Load) techniques to process and manage the information effectively.
